@@ -1,5 +1,11 @@
-# student_management_system_in_django
-student_management_system_in_django
+# Majimazuri_School_Management_System
+This School management system was built for a local school to help in keenping track and maintaining records. Some features include:
+1. Keeping track of the attendance and pulling up the records by teachers for their classes.
+2. Video conferencing tool to reduce dependancy on external tools and save money.
+3. Teachers can directly upload students marks and students can register complains incase of missing marks
+4. Teachers can apply for leave and the admin can either approve or deny their requests.
+5. Visualizations in terms of graphs for the admin to understand general distributions like teachers vs students or number of students per class
+
 
 <h2>Installation Steps : </h2>
 
@@ -25,9 +31,14 @@ python manage.py migrate
 </ul>
 </ol>
 <ol>
-Run Project python runserver
+ <li>Run Project python runserver</li>
 </ol>
 </ul>
+<ol><h2>Technologies used</h2>
+ <li>Django</li>
+ <li>ADMINLTE - Frontend content (built on Bootstrap 5)</li>
+ <li>SQL Database</li>
+</ol
 <hr>
 <hr>
 
